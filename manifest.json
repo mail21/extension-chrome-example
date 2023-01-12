@@ -25,7 +25,8 @@
         "https://github.com/*",
         "https://www.facebook.com/*",
         "https://hts.symbionhealth.com/*",
-        "https://qa.ashwins.com.au/*"
+        "https://qa.ashwins.com.au/*",
+        "https://www.qa.ashwins.com.au/*"
       ]
     }
   ]
